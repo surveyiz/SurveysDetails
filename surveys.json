@@ -1,0 +1,2589 @@
+{
+    "surveyTag": "Surveys for you today",
+    "surveys": [
+        {
+            "surveyId": "1",
+            "surveyCategory": "Welcome to Surveys",
+            "surveyPaid": false,
+            "surveyAmount": 70,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How did you hear about us?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Youtube",
+                        "Twitter",
+                        "Instagram",
+                        "Facebook",
+                        "Friend",
+                        "Our Website"
+                    ]
+                },
+                {
+                    "surveyQuestion": "We partner with thousand of businesses and brands to help you earn. These brands rely on your answers to advance their work thats why its important to write great answers",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "I understand",
+                        "Okay"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Surveys allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Looks Good",
+                        "I understand"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Researchers on our platform sometimes look for people with specific experience. As a result you may be disqualified from certain surveys",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Looks Good",
+                        "I understand"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Every day, you will have access to one survey. You can upgrade you account from your profile if you need more surveys. This survey is free and you can take another one",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Looks Good",
+                        "I understand"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal for us to process and pay you",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Have friends? We will pay you Ksh 30 for every survey you friend completes",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Looks Good",
+                        "I understand"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "DU6UAI7GDK",
+            "surveyCategory": "KFC",
+            "surveyPaid": true,
+            "surveyAmount": 80,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you visit KFC?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Daily",
+                        "Weekly",
+                        "Monthly",
+                        "Rarely",
+                        "First Time"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What items do you usually order at KFC?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Chicken",
+                        "Burgers",
+                        "Fries",
+                        "Drinks",
+                        "Desserts"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you like most about KFC?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate your overall satisfaction with KFC on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend KFC to a friend or family member?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How would you rate the speed of service at KFC?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very Slow",
+                        "Slow",
+                        "Average",
+                        "Fast",
+                        "Very Fast"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What improvements would you like to see at KFC?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the cleanliness of the KFC location you visited",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How do you usually place your order at KFC?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "In-store",
+                        "Drive-thru",
+                        "Online",
+                        "Delivery"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What factors influence your decision to visit KFC?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Convenience",
+                        "Price",
+                        "Quality of Food",
+                        "Promotions"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Please share any additional comments or feedback about your KFC experience",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the friendliness of the KFC staff",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How satisfied are you with the variety of menu items at KFC?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very Dissatisfied",
+                        "Dissatisfied",
+                        "Neutral",
+                        "Satisfied",
+                        "Very Satisfied"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "XU6LAI3GJT",
+            "surveyCategory": "Naivas",
+            "surveyPaid": false,
+            "surveyAmount": 40,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you shop at Naivas Supermarket?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Daily",
+                        "Weekly",
+                        "Monthly",
+                        "Rarely",
+                        "First Time"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What products do you usually purchase at Naivas Supermarket?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Groceries",
+                        "Household items",
+                        "Electronics",
+                        "Clothing"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you like most about Naivas Supermarket?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate your overall satisfaction with Naivas Supermarket on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend Naivas Supermarket to a friend or colleague?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How do you usually pay for your purchases at Naivas Supermarket?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cash",
+                        "Credit/Debit Card",
+                        "Mobile Payment"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following services have you used at Naivas Supermarket?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Home delivery",
+                        "In-store pickup",
+                        "Customer support",
+                        "Loyalty program"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What improvements would you like to see at Naivas Supermarket?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the quality of customer service at Naivas Supermarket on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How did you hear about Naivas Supermarket?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Social media",
+                        "Friends/Family",
+                        "Advertisements"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "DU6LAI3GJK",
+            "surveyCategory": "Diet & Food",
+            "surveyPaid": false,
+            "surveyAmount": 49,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you eat?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Once a day",
+                        "Twice a day",
+                        "Thrice a day"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "African",
+                        "Italian",
+                        "Mexican",
+                        "Chinese",
+                        "Indian",
+                        "Japanese"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite comfort food?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you follow any specific diet? If yes, please specify.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Chips",
+                        "Popcorn",
+                        "Fruit",
+                        "Nuts",
+                        "Chocolate"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which beverages do you prefer? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Coffee",
+                        "Tea",
+                        "Soda",
+                        "Water",
+                        "Juice"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "YU6LCI7GJR",
+            "surveyCategory": "Nakuru County",
+            "surveyPaid": true,
+            "surveyAmount": 61,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What is your age group?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Under 18",
+                        "18-25",
+                        "26-35",
+                        "36-45",
+                        "46-60",
+                        "Above 60"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following services do you use in Nakuru County?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Healthcare",
+                        "Education",
+                        "Public Transport",
+                        "Recreational Facilities"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you think can be improved in Nakuru County?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the quality of healthcare services in Nakuru County on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend Nakuru County as a place to live?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you visit recreational facilities in Nakuru County?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Daily",
+                        "Weekly",
+                        "Monthly",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What modes of transport do you use within Nakuru County?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Bus",
+                        "Matatu",
+                        "Boda Boda",
+                        "Private Car",
+                        "Walking"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite place in Nakuru County?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the cleanliness of public spaces in Nakuru County on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to participate in community events in Nakuru County?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How satisfied are you with the local government in Nakuru County?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very Satisfied",
+                        "Satisfied",
+                        "Neutral",
+                        "Dissatisfied",
+                        "Very Dissatisfied"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following issues concern you the most in Nakuru County?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Crime",
+                        "Unemployment",
+                        "Pollution",
+                        "Traffic"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you have any additional comments or suggestions for improving Nakuru County?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "RTCU8QFH2U",
+            "surveyCategory": "Smart/Electronic TVs",
+            "surveyPaid": true,
+            "surveyAmount": 53,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How many hours do you watch TV per day?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 1 hour",
+                        "1-2 hours",
+                        "3-4 hours",
+                        "More than 4 hours"
+                    ]
+                },
+                {
+                    "surveyQuestion": " Which genres of TV shows do you enjoy watching?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Comedy",
+                        "Drama",
+                        "Action",
+                        "Reality TV",
+                        "Documentary",
+                        "Cooking Shows"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer watching TV shows or movies?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "TV shows",
+                        "Movies",
+                        "Both equally"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Where do you usually watch TV?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Living room",
+                        "Bedroom",
+                        "Kitchen",
+                        "Outdoors",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Chips",
+                        "Popcorn",
+                        "Fruit",
+                        "Nuts",
+                        "Chocolate"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you watch TV alone or with others?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Alone",
+                        "With family",
+                        "With friends",
+                        "With partner"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "T88EP046T3",
+            "surveyCategory": "Facebook",
+            "surveyPaid": false,
+            "surveyAmount": 44,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How many hours do you spend on social media per day?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 1 hour",
+                        "1-2 hours",
+                        "2-4 hours",
+                        "More than 4 hours"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which social media platforms do you use regularly?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Facebook",
+                        "Instagram",
+                        "Twitter",
+                        "Snapchat",
+                        "TikTok",
+                        "LinkedIn",
+                        "Pinterest",
+                        "Reddit"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you think social media has a positive impact on society?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you use social media for?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Connecting with friends/family",
+                        "Sharing photos/videos",
+                        "Reading news",
+                        "Entertainment",
+                        "Networking",
+                        "Promoting business"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite social media platform and why?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Have you ever been a victim of cyberbullying on social media?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you post on social media?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Multiple times a day",
+                        "Once a day",
+                        "A few times a week",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What type of content do you engage with the most on social media?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Videos",
+                        "Photos",
+                        "Text posts",
+                        "Memes",
+                        "Articles",
+                        "Live streams"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "W48EP156T8",
+            "surveyCategory": "Safaricom Home Fibre",
+            "surveyPaid": true,
+            "surveyAmount": 88,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How did you hear about Safaricom Home Fibre?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "BRONZE 10mbps",
+                        "SILVER 20mbps",
+                        "GOLD 40mbps",
+                        "DIAMOND 100mbps"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Rate your overall satisfaction with Safaricom Home Fibre on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend Safaricom Home Fibre to a friend or colleague?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How long have you been using Safaricom Home Fibre?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 6 months",
+                        "6-12 months",
+                        "1-2 years",
+                        "More than 2 years"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What issues have you encountered while using Safaricom Home Fibre?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Slow internet speed",
+                        "Connection drops",
+                        "Billing issues",
+                        "Customer service"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What improvements would you like to see in Safaricom Home Fibre?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How often do you experience internet outages?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Never",
+                        "Rarely",
+                        "Sometimes",
+                        "Often",
+                        "Always"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Any additional comments or suggestions?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "OEAGIFC92H",
+            "surveyCategory": "Coca Cola",
+            "surveyPaid": false,
+            "surveyAmount": 47,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Tea",
+                        "Soda",
+                        "Juice",
+                        "Water",
+                        "Coffee"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer hot or cold beverages?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Hot",
+                        "Cold"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your go-to drink at a cafe?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How do you like your tea?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Black",
+                        "Green",
+                        "Herbal",
+                        "With Milk",
+                        "Iced"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following alcoholic beverages do you enjoy? (Select all that apply)",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Beer",
+                        "Wine",
+                        "Cocktails",
+                        "Whiskey",
+                        "Vodka"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How do you like your water?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Still",
+                        "Sparkling",
+                        "Flavored"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following soft drinks do you enjoy? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cola",
+                        "Lemonade",
+                        "Orange Soda",
+                        "Root Beer",
+                        "Ginger Ale"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "T472SNCM16",
+            "surveyCategory": "Optiven",
+            "surveyPaid": false,
+            "surveyAmount": 44,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "When would you like to buy your first home?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Now",
+                        "In 6 months",
+                        "In a year",
+                        "Over a year away "
+                    ]
+                },
+                {
+                    "surveyQuestion": "How confident are you in your ability to find and buy a home?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "I've got no idea ",
+                        "I'm pretty savvy, I'll work it out ",
+                        "Just watch me "
+                    ]
+                },
+                {
+                    "surveyQuestion": "Where do you go to learn what you need to know before buying a home? ",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Parents",
+                        "Friends",
+                        "Books",
+                        "Social Media"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you have a favourite source of information? Please tell us a bit about why you find it so valuable.",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "What do you think your challenges are about buying a home?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Deciding where to buy ",
+                        "Agreeing with my partner ",
+                        "Dealing with agents ",
+                        "Negotiation ",
+                        "Affordability "
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "ADL05KU9QX",
+            "surveyCategory": "Social Media",
+            "surveyPaid": false,
+            "surveyAmount": 43,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you use Facebook?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Everyday",
+                        "Once a week",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How long have you been using Facebook?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less tha a year",
+                        "1-3 years",
+                        "4-6 years",
+                        "More than 10 years"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which features of Facebook do you use regularly",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Messenger",
+                        "watch",
+                        "Reels",
+                        "Pages",
+                        "Games"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How satisfied are you with the overall Facebook experience?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very satisfied",
+                        "Satisfied",
+                        "Neutral",
+                        "Dissatisfied",
+                        "Very dissatisfied"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you interact with posts from friends or family on Facebook?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Multiple times a day",
+                        "Once a day",
+                        "A few times a week",
+                        "Once a week",
+                        "Rarely"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What types of content do you usually share on Facebook?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Photos",
+                        "Videos",
+                        "Status",
+                        "Events"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How concerned are you about the privacy of your personal information on Facebook?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Concerned",
+                        "Neutral",
+                        "Not concerned",
+                        "Not at all concerned"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "9J68HYA1O4",
+            "surveyCategory": "Starting your day",
+            "surveyPaid": false,
+            "surveyAmount": 44,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What time do you usually wake up?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "5AM",
+                        "6AM",
+                        "7AM",
+                        "8AM"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer to exercise in the morning?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you typically have for breakfast?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Cereal",
+                        "Toast",
+                        "Egg",
+                        "Fruit",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How do you usually commute to work/school?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Car",
+                        "Public transport",
+                        "Motorcycle",
+                        "Bicycle",
+                        "walking"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you check your phone as soon as you wake up?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which activities do you usually engage in before starting your day? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Meditation",
+                        "Exercise",
+                        "Reading",
+                        "Checking emails/social media",
+                        "Prepare meals"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite part of starting your day?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "IO9CA1TH4M",
+            "surveyCategory": "Cooking",
+            "surveyPaid": true,
+            "surveyAmount": 52,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you cook?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Every day",
+                        "A few times a week",
+                        "Once a week",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite cuisine?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Italian",
+                        "Mexican",
+                        "Chinese",
+                        "Indian",
+                        "Japanese",
+                        "Thai",
+                        "American",
+                        "Mediterranean",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you follow any specific dietary restrictions?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Vegetarian",
+                        "Vegan",
+                        "Gluten-free",
+                        "Dairy-free",
+                        "Keto",
+                        "Paleo",
+                        "None"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How confident are you in your cooking skills?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very confident",
+                        "Somewhat confident",
+                        "Neutral",
+                        "Not very confident",
+                        "Not confident at all"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following cooking techniques are you familiar with?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Grilling",
+                        "Baking",
+                        "Roasting",
+                        "Sauteing",
+                        "Stir-frying",
+                        "Boiling",
+                        "Steaming",
+                        "Slow cooking",
+                        "Frying"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following ingredients do you use frequently in your cooking?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Salt",
+                        "Pepper",
+                        "Garlic",
+                        "Onion",
+                        "Olive oil",
+                        "Butter",
+                        "Herbs",
+                        "Spices"
+                    ]
+                },
+                {
+                    "surveyQuestion": " What is your go-to quick and easy recipe?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "F27LDO510A",
+            "surveyCategory": "Mental health",
+            "surveyPaid": true,
+            "surveyAmount": 55,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How old are you",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Under 18",
+                        "18-24",
+                        "25-34",
+                        "35-44",
+                        "45-54",
+                        "55 or older"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Have you ever been diagnosed with a mental health disorder?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following mental health disorders have you been diagnosed with? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Anxiety disorder",
+                        "Depression",
+                        "Bipolar disorder",
+                        "Schizophrenia",
+                        "Obsessive-compulsive disorder",
+                        "Post-traumatic stress disorder",
+                        "Eating disorder",
+                        "Substance abuse disorder",
+                        "None of the above"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are some activities or hobbies that help you cope with stress or improve your mental well-being?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "On a scale of 1 to 10, how would you rate your overall mental health?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "R7VXJYT0HN",
+            "surveyCategory": "Access to clean water",
+            "surveyPaid": true,
+            "surveyAmount": 58,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What sources of water do you have access to?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Tap water",
+                        "Bottled water",
+                        "Well water",
+                        "River water",
+                        "Rainwater harvesting",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you experience water scarcity?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Are you satisfied with the quality of your drinking water?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very satisfied",
+                        "Satisfied",
+                        "Neutral",
+                        "Dissatisfied",
+                        "Very dissatisfied"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What factors affect your access to clean water? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Lack of infrastructure",
+                        "Pollution",
+                        "Drought",
+                        "Conflict",
+                        "Poverty",
+                        "Government policies",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What measures do you take to conserve water?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you believe everyone should have access to clean water?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you think the government is doing enough to ensure access to clean water?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "VMLSA9BQ84",
+            "surveyCategory": "Women Rights",
+            "surveyPaid": true,
+            "surveyAmount": 53,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "Which of the following women's rights issues are you most passionate about?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Equal pay",
+                        "Reproductive rights",
+                        "Gender-based violence",
+                        "Political representation",
+                        "Education",
+                        "Workplace discrimination",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What inspired you to support women's rights?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you believe women should have equal opportunities as men?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following women's rights achievements do you consider the most significant?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Right to vote",
+                        "Access to education",
+                        "Reproductive rights",
+                        "Equal pay legislation",
+                        "Legal protection against gender-based violence",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "In your opinion, what are the biggest challenges women face in society today?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you think there is still a gender pay gap?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "4WUM6Z72QP",
+            "surveyCategory": "Political Stability",
+            "surveyPaid": true,
+            "surveyAmount": 58,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "Do you believe political stability is important for a country's development?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How would you rate the political stability in your country?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very stable",
+                        "Somewhat stable",
+                        "Unstable"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which factors do you think contribute to political stability? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Strong institutions",
+                        "Effective governance",
+                        "Economic prosperity",
+                        "Social cohesion",
+                        "Rule of law"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you think political stability leads to economic growth?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following do you think can negatively impact political stability? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Corruption",
+                        "Political polarization",
+                        "Social unrest",
+                        "Lack of transparency",
+                        "Weak institutions"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you believe political stability is a prerequisite for foreign investments?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How would you rate the level of political stability in neighboring countries?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very stable",
+                        "Somewhat stable",
+                        "Unstable"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How confident are you in the ability of your government to maintain political stability?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very confident",
+                        "Somewhat confident",
+                        "Not confident"
+                    ]
+                },
+                {
+                    "surveyQuestion": "In your opinion, what measures can be taken to improve political stability?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "O48EE156R1",
+            "surveyCategory": "Fresha Milk",
+            "surveyPaid": false,
+            "surveyAmount": 49,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you purchase Fresha Milk?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Daily",
+                        "Weekly",
+                        "Monthly",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which types of Fresha Milk products do you buy?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Whole Milk",
+                        "Skim Milk",
+                        "Soy Milk",
+                        "Almond Milk"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you like most about Fresha Milk?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the quality of Fresha Milk on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend Fresha Milk to a friend or colleague?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Where do you usually purchase Fresha Milk?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Supermarket",
+                        "Local Shop",
+                        "Convenience Store",
+                        "Online"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What factors influence your decision to buy Fresha Milk?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Price",
+                        "Quality",
+                        "Brand Reputation",
+                        "Nutritional Value"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you have any suggestions for improving Fresha Milk?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate your overall satisfaction with Fresha Milk on a scale of 1-5",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following attributes are most important to you when choosing a milk brand?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Organic",
+                        "Non-GMO",
+                        "Lactose-Free",
+                        "Fortified with Vitamins"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to continue purchasing Fresha Milk in the future?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "R9V5Q840JW",
+            "surveyCategory": "Laptop Purchasing",
+            "surveyPaid": true,
+            "surveyAmount": 52,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What is your occupation?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Student",
+                        "Professional",
+                        "Self-employed",
+                        "Unemployed",
+                        "Retired"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which brand(s) of laptops are you considering?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Apple",
+                        "Dell",
+                        "HP",
+                        "Lenovo",
+                        "Asus",
+                        "Acer",
+                        "Microsoft",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which operating system(s) are you interested in?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Windows",
+                        "MacOS",
+                        "Linux",
+                        "Chrome OS"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What screen size do you prefer?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "11-13 inches",
+                        "14-15 inches",
+                        "16-17 inches",
+                        "Above 17 inches"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you travel with your laptop?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Frequently",
+                        "Occasionally",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your primary use for the laptop?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Work/Office",
+                        "Education",
+                        "Gaming",
+                        "Media/Entertainment",
+                        "Web Browsing/Social Media"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your preferred storage type?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "SSD",
+                        "HDD"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "8ULTHSYN47",
+            "surveyCategory": "Healthcare access",
+            "surveyPaid": true,
+            "surveyAmount": 56,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What is your ethnicity?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you have health insurance?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following healthcare services have you used in the past year? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Primary care",
+                        "Specialist care",
+                        "Emergency care",
+                        "Hospitalization",
+                        "Mental health services",
+                        "Dental care",
+                        "Vision care"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is the main reason you seek healthcare services?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How often do you visit a healthcare provider?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than once a year",
+                        "Once a year",
+                        "2-3 times a year",
+                        "4-6 times a year",
+                        "More than 6 times a year"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What barriers have you experienced in accessing healthcare? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cost",
+                        "Lack of insurance",
+                        "Long wait times",
+                        "Limited availability of providers",
+                        "Language barriers",
+                        "Transportation issues",
+                        "Lack of information",
+                        "Discrimination"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What improvements would you like to see in healthcare access?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "9ULKHSYZ42",
+            "surveyCategory": "Robotics",
+            "surveyPaid": false,
+            "surveyAmount": 48,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How familiar are you with robotics?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Not at all",
+                        "Somewhat familiar",
+                        "Very familiar",
+                        "Expert"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which types of robots are you most interested in?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Industrial robots",
+                        "Service robots",
+                        "Medical robots",
+                        "Educational robots"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you think is the most significant advancement in robotics in the last decade?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate your satisfaction with the current state of robotics technology on a scale of 1-5.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend a career in robotics to a friend or colleague?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your primary source of information about robotics?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "News articles",
+                        "Academic journals",
+                        "Social media",
+                        "Conferences"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which industries do you believe will benefit the most from robotics?",
+                    "surveyType": 2,
+                    "surveyAnswers": [
+                        "Manufacturing",
+                        "Healthcare",
+                        "Agriculture",
+                        "Logistics",
+                        "Retail"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are your concerns about the future of robotics?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the potential of robotics to improve quality of life on a scale of 1-5.",
+                    "surveyType": 2,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are your concerns about the future of robotics?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How likely are you to invest in robotics technology if given the opportunity?",
+                    "surveyType": 2,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What are the main challenges facing the robotics industry?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cost",
+                        "Technology limitations",
+                        "Public perception",
+                        "Regulation"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Rate the importance of ethical considerations in robotics development on a scale of 1-5.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "cvdfr45",
+            "surveyCategory": "Hotel Industry",
+            "surveyPaid": true,
+            "surveyAmount": 57,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you stay in hotels?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than once a year",
+                        "1-3 times a year",
+                        "4-6 times a year",
+                        "More than 6 times a year"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What factors do you consider when choosing a hotel? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Price",
+                        "Location",
+                        "Facilities",
+                        "Reviews",
+                        "Brand reputation"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite hotel chain?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How important is the hotel's cleanliness to you?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Extremely important",
+                        "Very important",
+                        "Moderately important",
+                        "Slightly important",
+                        "Not important"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which amenities do you expect to find in a hotel room? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Free Wi-Fi",
+                        "TV",
+                        "Mini fridge",
+                        "Coffee maker",
+                        "Hairdryer",
+                        "Iron and ironing board",
+                        "Safe",
+                        "Toiletries"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to book a hotel with a loyalty program?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very likely",
+                        "Somewhat likely",
+                        "Neutral",
+                        "Somewhat unlikely",
+                        "Very unlikely"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your preferred check-in/check-out time?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "What is your preferred type of accommodation when traveling?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "NM467SJLMCX",
+            "surveyCategory": "KPLC(Kenya Power)",
+            "surveyPaid": true,
+            "surveyAmount": 61,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How would you rate the reliability of KPLC's electricity supply?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very reliable",
+                        "Reliable",
+                        "Neutral",
+                        "Unreliable",
+                        "Very unreliable"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following services have you used from KPLC?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Electricity supply",
+                        "Customer support",
+                        "Billing services",
+                        "Technical support"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What improvements would you like to see in KPLC's services?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate your overall satisfaction with KPLC on a scale of 1-5.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How likely are you to recommend KPLC to a friend or colleague?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you experience power outages?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Never",
+                        "Rarely",
+                        "Sometimes",
+                        "Often",
+                        "Very often"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What methods do you use to pay your KPLC bills?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Mobile money",
+                        "Bank transfer",
+                        "In-person at KPLC office",
+                        "Online payment"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Please describe any issues you have faced with KPLC's billing services.",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Rate the ease of contacting KPLC's customer support on a scale of 1-5.",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How satisfied are you with the resolution of your issues by KPLC's customer support?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very satisfied",
+                        "Satisfied",
+                        "Neutral",
+                        "Dissatisfied",
+                        "Very dissatisfied"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following communication channels do you prefer for contacting KPLC?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Phone",
+                        "Email",
+                        "In-person",
+                        "Social media"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "vgdc21bh3m",
+            "surveyCategory": "Shopping",
+            "surveyPaid": true,
+            "surveyAmount": 57,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you go shopping?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Once a week",
+                        "Twice a month",
+                        "Once a month",
+                        "Rarely"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following stores do you frequently shop at?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Supermarket",
+                        "Department store",
+                        "Clothing store",
+                        "Electronics store",
+                        "Online store"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite online shopping platform?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "How much do you usually spend on shopping per month?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than $50",
+                        "$50 - $100",
+                        "$100 - $200",
+                        "More than $200"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which payment methods do you prefer when shopping online?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Credit card",
+                        "M-PESA",
+                        "PayPal",
+                        "Bank transfer",
+                        "Cash on delivery"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite clothing brand?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you prefer shopping alone or with others?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Alone",
+                        "With friends",
+                        "With family"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which factors influence your decision to purchase a product?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Price",
+                        "Quality",
+                        "Brand reputation",
+                        "Product reviews",
+                        "Promotions"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you buy products online?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Frequently",
+                        "Occasionally",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite online marketplace?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "ex1tdrvi9c",
+            "surveyCategory": "Cars",
+            "surveyPaid": true,
+            "surveyAmount": 60,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What is your favorite car brand?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Toyota",
+                        "Honda",
+                        "BMW",
+                        "Mercedes-Benz",
+                        "Audi",
+                        "VW",
+                        "Subaru",
+                        "Nissan"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which car body type do you prefer?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Sedan",
+                        "SUV",
+                        "Hatchback",
+                        "Convertible",
+                        "Coupe",
+                        "Wagon",
+                        "Minivan",
+                        "Pickup Truck",
+                        "Sports Car"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your preferred fuel type?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Gasoline",
+                        "Diesel",
+                        "Electric",
+                        "Hybrid"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which car features are important to you? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Safety",
+                        "Fuel Efficiency",
+                        "Performance",
+                        "Comfort",
+                        "Technology",
+                        "Reliability",
+                        "Price",
+                        "Style",
+                        "Off-Road Capability",
+                        "Cargo Space"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you use your car?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Daily",
+                        "Several times a week",
+                        "Once a week",
+                        "Several times a month",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer manual or automatic transmission?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Manual",
+                        "Automatic"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your budget for a car?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Under $10,000",
+                        "$10,000 - $20,000",
+                        "$20,000 - $30,000",
+                        "$30,000 - $40,000",
+                        "$40,000 - $50,000",
+                        "Over $50,000"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your preferred car color?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Black",
+                        "White",
+                        "Silver",
+                        "Gray",
+                        "Blue",
+                        "Red",
+                        "Green",
+                        "Yellow"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your preferred car color?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "New",
+                        "Used"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "fq2maza2qa",
+            "surveyCategory": "Television",
+            "surveyPaid": true,
+            "surveyAmount": 56,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How many hours do you watch TV per day?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 1 hour",
+                        "1-2 hours",
+                        "2-4 hours",
+                        "More than 4 hours"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which genres of TV shows do you enjoy? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Comedy",
+                        "Drama",
+                        "Action",
+                        "Reality TV",
+                        "Documentary",
+                        "Sports",
+                        "News"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite TV show?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you prefer watching TV shows or movies?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "TV shows",
+                        "Movies",
+                        "Both equally"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which streaming platforms do you use? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Netflix",
+                        "Amazon Prime Video",
+                        "Hulu",
+                        "Disney+",
+                        "YouTube"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite TV channel?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you watch TV shows live or prefer to stream them?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Watch live",
+                        "Stream"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer watching TV alone or with others?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Alone",
+                        "With Friends",
+                        "With Family"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "aaoxj3x5qm",
+            "surveyCategory": "Furniture",
+            "surveyPaid": true,
+            "surveyAmount": 54,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you buy furniture?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Once a year",
+                        "Twice a year",
+                        "Every few years",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which room(s) do you need furniture for?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Living room",
+                        "Bedroom",
+                        "Dining room",
+                        "Home office",
+                        "Outdoor",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite furniture style?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Where do you usually buy furniture?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Physical store",
+                        "Online store",
+                        "Both"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which factors influence your furniture purchase decision? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Price",
+                        "Quality",
+                        "Design",
+                        "Brand reputation",
+                        "Customer reviews",
+                        "Recommendations",
+                        "Convenience",
+                        "Availability"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which materials do you prefer for furniture? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Wood",
+                        "Metal",
+                        "Plastic",
+                        "Glass",
+                        "Fabric",
+                        "Leather"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How do you prioritize comfort when choosing furniture?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very important",
+                        "Somewhat important",
+                        "Not important"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which furniture features are important to you? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Storage",
+                        "Durability",
+                        "Adjustability",
+                        "Versatility",
+                        "Aesthetics",
+                        "Space-saving"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "4bpmr9t9a2",
+            "surveyCategory": "Home Design",
+            "surveyPaid": true,
+            "surveyAmount": 55,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "What is your favorite room in a house?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Living room",
+                        "Bedroom",
+                        "Kitchen",
+                        "Bathroom",
+                        "Home office",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite color for home decor?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you prefer modern or traditional home design?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Modern",
+                        "Traditional",
+                        "Both",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following materials do you like for flooring?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Hardwood",
+                        "Laminate",
+                        "Tile",
+                        "Carpet",
+                        "Vinyl",
+                        "Concrete"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following colors do you like for walls?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "White",
+                        "Beige",
+                        "Gray",
+                        "Blue",
+                        "Green"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer natural or artificial lighting in your home?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Natural",
+                        "Artificial",
+                        "Both",
+                        "Not sure"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following furniture styles do you like?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Modern",
+                        "Traditional",
+                        "Mid-century",
+                        "Industrial",
+                        "Scandinavian"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following storage solutions do you find most useful?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Shelves",
+                        "Cabinets",
+                        "Drawers",
+                        "Baskets",
+                        "Hooks"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer a minimalist or maximalist home design?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Minimalist",
+                        "Maximalist",
+                        "Somewhere in between",
+                        "Not sure"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "jem5c0zrad",
+            "surveyCategory": "Hotel Industry",
+            "surveyPaid": false,
+            "surveyAmount": 47,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How many years of farming experience do you have?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 1 year",
+                        "1-5 years",
+                        "6-10 years",
+                        "More than 10 years"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which crops do you cultivate? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Maize",
+                        "Wheat",
+                        "Rice",
+                        "Soybeans",
+                        "Potatoes",
+                        "Tomatoes",
+                        "Cotton",
+                        "Tea",
+                        "Coffee"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What challenges do you face in your farming practices?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you use organic farming methods?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No",
+                        "Both"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which livestock do you raise? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cattle",
+                        "Pigs",
+                        "Sheep",
+                        "Goats",
+                        "Poultry",
+                        "Fish"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is the size of your farm in acres?",
+                    "surveyType": 3,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you use irrigation systems on your farm?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which farming equipment do you own? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Tractor",
+                        "Combine Harvester",
+                        "Plow",
+                        "Seeder",
+                        "Sprayer",
+                        "Cultivator"
+                    ]
+                }
+            ]
+        }
+    ]
+}
