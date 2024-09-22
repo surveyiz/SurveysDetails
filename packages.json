@@ -17,7 +17,7 @@
       "dailyIncome": 250,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
-      "price": "250"
+      "price": "550"
     },
     {
       "planName": "Business Premium",
@@ -26,7 +26,7 @@
       "dailyIncome": 500,
       "minimumWithdrawal": 2500,
       "earningPerSurvey": "50 - 100",
-      "price": "500"
+      "price": "1050"
     },
     {
       "planName": "Business Expert",
@@ -35,11 +35,11 @@
       "dailyIncome": 1500,
       "minimumWithdrawal": 2000,
       "earningPerSurvey": "50 - 100",
-      "price": "1000"
+      "price": "1550"
     }
   ],
   "mpesaPaymentDetails": {
-    "tillName": "STATAREA SYSTES",
+    "tillName": "STATAREA SYSTEMS",
     "tillNumber": 668526
   },
   "moneyMaking": [
