@@ -72,7 +72,7 @@
             "surveyPaid": true,
             "surveyAmount": 80,
             "surveyQuestions": [
-                
+                {
                     "surveyQuestion": "How often do you visit KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
@@ -513,7 +513,7 @@
                 }
             ]
         },
-        
+        {
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
             "surveyPaid": true,
