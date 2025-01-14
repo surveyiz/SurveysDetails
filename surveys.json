@@ -205,7 +205,7 @@
         {
             "surveyId": "XU6LAI3GJT",
             "surveyCategory": "Naivas",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 40,
             "surveyQuestions": [
                 {
@@ -587,7 +587,7 @@
         {
             "surveyId": "T88EP046T3",
             "surveyCategory": "Facebook",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -836,7 +836,7 @@
         {
             "surveyId": "T472SNCM16",
             "surveyCategory": "Optiven",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -970,7 +970,7 @@
         {
             "surveyId": "9J68HYA1O4",
             "surveyCategory": "Starting your day",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -1410,7 +1410,7 @@
         {
             "surveyId": "O48EE156R1",
             "surveyCategory": "Fresha Milk",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 49,
             "surveyQuestions": [
                 {
@@ -2504,7 +2504,7 @@
         {
             "surveyId": "jem5c0zrad",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 47,
             "surveyQuestions": [
                 {
