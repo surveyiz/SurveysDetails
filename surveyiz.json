@@ -5,7 +5,7 @@
         "surveyId": "1",
         "surveyCategory": "Surveyiz",
         "surveyPaid": false,
-        "surveyAmount": 70,
+        "surveyAmount": 1000,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
@@ -4317,7 +4317,7 @@
       {
         "surveyId": "jem5c0zrad",
         "surveyCategory": "Hotel Industry",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 47,
         "surveyQuestions": [
           {
