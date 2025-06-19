@@ -1679,7 +1679,7 @@
         {
           "surveyId": "CD23EF45GH",
           "surveyCategory": "MOBILE APPS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 55,
           "surveyQuestions": [
               {
@@ -1851,7 +1851,7 @@
       {
           "surveyId": "OP12QR34ST",
           "surveyCategory": "HOME APPLIANCES",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 50,
           "surveyQuestions": [
               {
@@ -2033,7 +2033,7 @@
       {
         "surveyId": "T88EP046T3",
         "surveyCategory": "Facebook",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 44,
         "surveyQuestions": [
           {
@@ -2208,7 +2208,7 @@
       {
         "surveyId": "OEAGIFC92H",
         "surveyCategory": "Coca Cola",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 47,
         "surveyQuestions": [
           {
@@ -2282,7 +2282,7 @@
       {
         "surveyId": "T472SNCM16",
         "surveyCategory": "Optiven",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 44,
         "surveyQuestions": [
           {
@@ -2335,7 +2335,7 @@
       {
         "surveyId": "ADL05KU9QX",
         "surveyCategory": "Social Media",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 43,
         "surveyQuestions": [
           {
@@ -2416,7 +2416,7 @@
       {
         "surveyId": "9J68HYA1O4",
         "surveyCategory": "Starting your day",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 44,
         "surveyQuestions": [
           {
@@ -2580,7 +2580,7 @@
       {
           "surveyId": "OP90QR12ST",
           "surveyCategory": "CLOTHING BRANDS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 40,
           "surveyQuestions": [
               {
@@ -2732,7 +2732,7 @@
       {
           "surveyId": "CD12EF34GH",
           "surveyCategory": "PETS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 35,
           "surveyQuestions": [
               {
@@ -2881,7 +2881,7 @@
       {
           "surveyId": "UV78WX90YZ",
           "surveyCategory": "EDUCATIONAL RESOURCES",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 65,
           "surveyQuestions": [
               {
@@ -3223,7 +3223,7 @@
       {
         "surveyId": "O48EE156R1",
         "surveyCategory": "Fresha Milk",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -3497,7 +3497,7 @@
       {
         "surveyId": "9ULKHSYZ42",
         "surveyCategory": "Robotics",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 48,
         "surveyQuestions": [
           {
