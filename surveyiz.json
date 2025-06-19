@@ -3,7 +3,7 @@
     "surveys": [
       {
         "surveyId": "1",
-        "surveyCategory": "Bunny Surveys",
+        "surveyCategory": "Surveyiz",
         "surveyPaid": false,
         "surveyAmount": 70,
         "surveyQuestions": [
@@ -69,7 +69,7 @@
       {
         "surveyId": "DU6UZI9PDQ",
         "surveyCategory": "AIRTEL",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -306,7 +306,7 @@
       {
         "surveyId": "DA6UAI6GDR",
         "surveyCategory": "Nation Media",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 38,
         "surveyQuestions": [
           {
@@ -1085,7 +1085,7 @@
       {
           "surveyId": "WX34YZ56AB",
           "surveyCategory": "FITNESS AND WELLNESS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 60,
           "surveyQuestions": [
               {
