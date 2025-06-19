@@ -686,7 +686,7 @@
       {
           "surveyId": "ST34UV56WX",
           "surveyCategory": "FOOD DELIVERY",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 55,
           "surveyQuestions": [
               {
@@ -1014,7 +1014,7 @@
       {
           "surveyId": "QR56ST78UV",
           "surveyCategory": "PERSONAL FINANCE",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 50,
           "surveyQuestions": [
               {
@@ -1297,7 +1297,7 @@
       {
         "surveyId": "XU6LAI3GJT",
         "surveyCategory": "Naivas",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 40,
         "surveyQuestions": [
           {
@@ -1402,7 +1402,7 @@
       {
         "surveyId": "DU6LAI3GJK",
         "surveyCategory": "Diet & Food",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
